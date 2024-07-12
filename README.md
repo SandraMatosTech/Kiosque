@@ -1,5 +1,7 @@
 <h1> M5 - Kiosque </h1>
 
+Você acabou de pegar um projeto como freelancer, o cliente deseja que seja feita uma aplicação para facilitar o gerenciamento de sua loja de comidas. Desta maneira, você terá que elaborar formas para verificar a existência de um produto no menu, listar somente alimentos que sejam de uma categoria passada, calcular gasto total de uma mesa e etc.
+
 <h2> Como rodar os testes localmente </h2>
 
 <h3> Preparação do ambiente <h3>
